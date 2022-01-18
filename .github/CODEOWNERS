@@ -1,4 +1,5 @@
 * @neel-gajjar
 *.js @neel-gajjar
-*.yml @neel-gajjar
+*.yml @neelgajjar
 /public/ @neel-gajjar
+
